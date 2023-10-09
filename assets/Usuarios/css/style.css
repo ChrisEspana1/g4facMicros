@@ -1,0 +1,43 @@
+body {
+  background-color: #1B2735;
+  color: #ffeba7;
+}
+
+.form-control,
+.form-select {
+  background-color: #020305;
+  color: #ffeba7;
+  border-color: #ffeba7;
+}
+
+.btn-primary {
+  background-color: #ffeba7;
+  border-color: #ffeba7;
+  color: #000000;
+}
+
+.table {
+  background-color: #020305;
+  color: #ffeba7;
+  border-color: #ffeba7;
+}
+
+.table th,
+.table td {
+  background-color: #020305;
+  color: #ffeba7;
+  border-color: #ffeba7;
+}
+
+.table tbody tr:hover {
+  background-color: #ffeba7;
+  color: #020305;
+}
+
+.link {
+  color: #ffeba7;
+}
+
+.link:hover {
+  color: #c4c3ca;
+}
